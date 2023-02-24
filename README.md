@@ -1,5 +1,5 @@
 # RSV_BEDROCK_PACK
-##●How to use:
+#●How to use:
   1. dowbload pack and geyser_mappings.json
   2. unzip
   3. zip pack in folder(rsv_pack)
