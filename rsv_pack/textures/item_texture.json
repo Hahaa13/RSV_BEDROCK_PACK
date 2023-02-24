@@ -1,0 +1,2094 @@
+{
+  "resource_pack_name": "geyser_custom",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "gmdl_eaaae54": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_arrow"
+    },
+    "gmdl_1a435f5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_arrow"
+    },
+    "gmdl_0372b17": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_arrow"
+    },
+    "gmdl_cd01841": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_arrow"
+    },
+    "gmdl_9147d21": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_arrow"
+    },
+    "gmdl_7319b4c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_arrow"
+    },
+    "gmdl_ab3f92d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/explosive_arrow"
+    },
+    "gmdl_5de1e70": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/bolt"
+    },
+    "gmdl_df7f196": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_bolt"
+    },
+    "gmdl_ffd042c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_bow_pulling_2"
+    },
+    "gmdl_e514cd2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_axolotl_bucket"
+    },
+    "gmdl_e3e90ca": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_longbow_pulling_2"
+    },
+    "gmdl_a15db30": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_longbow_pulling_2"
+    },
+    "gmdl_19f498f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_longbow_pulling_2"
+    },
+    "gmdl_71d971f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_longbow_pulling_2"
+    },
+    "gmdl_45ef7ee": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_longbow_pulling_2"
+    },
+    "gmdl_7d7a415": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_longbow_pulling_2"
+    },
+    "gmdl_d6d2f6c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_longbow_pulling_2"
+    },
+    "gmdl_6544834": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_longbow_pulling_2"
+    },
+    "gmdl_94fcb31": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_longbow_pulling_2"
+    },
+    "gmdl_827b556": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_longbow_pulling_2"
+    },
+    "gmdl_7d44e7e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_longbow_pulling_2"
+    },
+    "gmdl_1a0e22d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_longbow_pulling_2"
+    },
+    "gmdl_a7acc30": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/thermometer_08"
+    },
+    "gmdl_be6f7d1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_bucket"
+    },
+    "gmdl_af25fab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_cod_bucket"
+    },
+    "gmdl_288af41": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_flesh_ice"
+    },
+    "gmdl_920c5f6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_flesh_fire"
+    },
+    "gmdl_da10641": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_crossbow_firework"
+    },
+    "gmdl_08091d5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_flesh_lightning"
+    },
+    "gmdl_3263a50": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_crossbow_firework"
+    },
+    "gmdl_e3496d0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_crossbow_firing"
+    },
+    "gmdl_ae3f570": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_crossbow_firework"
+    },
+    "gmdl_9caf323": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_crossbow_firework"
+    },
+    "gmdl_9492b1a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_crossbow_firework"
+    },
+    "gmdl_fd360ae": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_crossbow_firing"
+    },
+    "gmdl_84ddb83": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_crossbow_firework"
+    },
+    "gmdl_fcf8aa9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_crossbow_firework"
+    },
+    "gmdl_2a7da23": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_crossbow_firework"
+    },
+    "gmdl_c54dd61": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_crossbow_firework"
+    },
+    "gmdl_fcf353b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_crossbow_pulling_0"
+    },
+    "gmdl_40c0ccc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_axe"
+    },
+    "gmdl_42b279a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_battleaxe"
+    },
+    "gmdl_c601f5d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_battleaxe"
+    },
+    "gmdl_f670fdc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_battleaxe"
+    },
+    "gmdl_b3eafa1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_battleaxe"
+    },
+    "gmdl_2e51135": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_saw"
+    },
+    "gmdl_da3aeb6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_battleaxe"
+    },
+    "gmdl_c46f323": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_mattock"
+    },
+    "gmdl_77f45cf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_blue"
+    },
+    "gmdl_219148d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_bronze"
+    },
+    "gmdl_780f346": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_green"
+    },
+    "gmdl_e2c5e61": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_gray"
+    },
+    "gmdl_b9da99b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_red"
+    },
+    "gmdl_1555083": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_silver"
+    },
+    "gmdl_7900cb3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_sapphire"
+    },
+    "gmdl_1bbdb6c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_white"
+    },
+    "gmdl_59687b7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_amethyst"
+    },
+    "gmdl_9275325": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_electric"
+    },
+    "gmdl_cb5bb59": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_black"
+    },
+    "gmdl_563b92a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_boots_copper"
+    },
+    "gmdl_b9f2da1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_blue"
+    },
+    "gmdl_ea7268a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_bronze"
+    },
+    "gmdl_222485b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_green"
+    },
+    "gmdl_2c9e216": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_deepblue"
+    },
+    "gmdl_2f37c0e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_purple"
+    },
+    "gmdl_5f08d08": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_teal"
+    },
+    "gmdl_b62987c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_boots_red"
+    },
+    "gmdl_a23a313": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_blue"
+    },
+    "gmdl_0642b6f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_bronze"
+    },
+    "gmdl_40913fc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_red"
+    },
+    "gmdl_194c963": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_green"
+    },
+    "gmdl_2c7657c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_gray"
+    },
+    "gmdl_f4f1288": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_sapphire"
+    },
+    "gmdl_4eaed25": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_silver"
+    },
+    "gmdl_781de03": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_white"
+    },
+    "gmdl_7523d72": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_amethyst"
+    },
+    "gmdl_74086a6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_black"
+    },
+    "gmdl_c461dfe": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_copper"
+    },
+    "gmdl_314dd09": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_blue"
+    },
+    "gmdl_b0e352a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_chestplate_electric"
+    },
+    "gmdl_04db166": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_bronze"
+    },
+    "gmdl_c31ecbf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_deepblue"
+    },
+    "gmdl_e0a9a5d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_green"
+    },
+    "gmdl_859f3de": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_purple"
+    },
+    "gmdl_711280f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_red"
+    },
+    "gmdl_f507efb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_chestplate_teal"
+    },
+    "gmdl_42cf9ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_blue"
+    },
+    "gmdl_d709e5b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_bronze"
+    },
+    "gmdl_c484526": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_green"
+    },
+    "gmdl_9ead7ee": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_gray"
+    },
+    "gmdl_966b7de": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_red"
+    },
+    "gmdl_88a6867": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_sapphire"
+    },
+    "gmdl_4f27d25": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_white"
+    },
+    "gmdl_77de514": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_silver"
+    },
+    "gmdl_752ba33": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_amethyst"
+    },
+    "gmdl_23f5e77": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_black"
+    },
+    "gmdl_687a0ff": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_electric"
+    },
+    "gmdl_c648fbb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_helmet_copper"
+    },
+    "gmdl_b19bf0b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_blue"
+    },
+    "gmdl_bade658": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_bronze"
+    },
+    "gmdl_d8f183a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_deepblue"
+    },
+    "gmdl_548f007": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_green"
+    },
+    "gmdl_be77479": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_purple"
+    },
+    "gmdl_e1d47a8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_red"
+    },
+    "gmdl_b6808a6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_helmet_teal"
+    },
+    "gmdl_378edf6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_mattock"
+    },
+    "gmdl_bca5b04": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_hoe"
+    },
+    "gmdl_6e07abb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_blue"
+    },
+    "gmdl_b7790bb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_bronze"
+    },
+    "gmdl_ccb78c6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_gray"
+    },
+    "gmdl_3108d86": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_green"
+    },
+    "gmdl_b4d4205": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_red"
+    },
+    "gmdl_9f2c5fa": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_sapphire"
+    },
+    "gmdl_bf4fd15": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_white"
+    },
+    "gmdl_ed422d5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_silver"
+    },
+    "gmdl_0143524": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_amethyst"
+    },
+    "gmdl_6e6934d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_black"
+    },
+    "gmdl_179ebdf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_copper"
+    },
+    "gmdl_5640079": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_leggings_electric"
+    },
+    "gmdl_4ccc0d4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_blue"
+    },
+    "gmdl_e64b841": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_bronze"
+    },
+    "gmdl_3013a68": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_deepblue"
+    },
+    "gmdl_330427d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_green"
+    },
+    "gmdl_ff59d5f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_purple"
+    },
+    "gmdl_49a01c5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_teal"
+    },
+    "gmdl_99a87fd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/tide_guardian_leggings_red"
+    },
+    "gmdl_a2ed400": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_pickaxe"
+    },
+    "gmdl_f70c452": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_mattock"
+    },
+    "gmdl_c603ca0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_mattock"
+    },
+    "gmdl_8ff096b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_shovel"
+    },
+    "gmdl_d488c64": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_sword"
+    },
+    "gmdl_aa8078d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_flamed_sword"
+    },
+    "gmdl_5e95404": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_iced_sword"
+    },
+    "gmdl_f5e4d37": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_lightning_sword"
+    },
+    "gmdl_22c2329": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_rapier"
+    },
+    "gmdl_b45f6dd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_katana"
+    },
+    "gmdl_25885a0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_greatsword"
+    },
+    "gmdl_0f84ea5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_longsword"
+    },
+    "gmdl_5265ee5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_spear"
+    },
+    "gmdl_b12db98": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_saber"
+    },
+    "gmdl_59d850a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_boomerang"
+    },
+    "gmdl_6972a86": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_dagger"
+    },
+    "gmdl_5ea08e3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_glaive"
+    },
+    "gmdl_957db5c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_halberd"
+    },
+    "gmdl_86edef6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_hammer"
+    },
+    "gmdl_3100170": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_javelin"
+    },
+    "gmdl_b00bbfb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lance"
+    },
+    "gmdl_858df13": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_mace"
+    },
+    "gmdl_385d38d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_pike"
+    },
+    "gmdl_4cca44b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_quarterstaff"
+    },
+    "gmdl_c4c4d0d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_tomahawk"
+    },
+    "gmdl_b77f911": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_throwing_knife"
+    },
+    "gmdl_9fb8025": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_warhammer"
+    },
+    "gmdl_b3880cf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_rapier"
+    },
+    "gmdl_ee73231": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_katana"
+    },
+    "gmdl_96c071a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_greatsword"
+    },
+    "gmdl_8d40c8b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_longsword"
+    },
+    "gmdl_24e58c3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_spear"
+    },
+    "gmdl_846e6e9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_saber"
+    },
+    "gmdl_56a7722": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_boomerang"
+    },
+    "gmdl_83b09ce": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_glaive"
+    },
+    "gmdl_86604a6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_dagger"
+    },
+    "gmdl_dfa9767": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_halberd"
+    },
+    "gmdl_3de42f6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_hammer"
+    },
+    "gmdl_4e686cc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_javelin"
+    },
+    "gmdl_19cd357": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_lance"
+    },
+    "gmdl_cfa6db2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_mace"
+    },
+    "gmdl_07af5ae": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_pike"
+    },
+    "gmdl_06c479f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_quarterstaff"
+    },
+    "gmdl_d75a5cd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_tomahawk"
+    },
+    "gmdl_6685a2b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_throwing_knife"
+    },
+    "gmdl_e42d1df": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_flamed_warhammer"
+    },
+    "gmdl_e913625": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_rapier"
+    },
+    "gmdl_4fe382c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_katana"
+    },
+    "gmdl_f728323": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_greatsword"
+    },
+    "gmdl_582e850": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_longsword"
+    },
+    "gmdl_b52f40d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_spear"
+    },
+    "gmdl_54d7c6b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_saber"
+    },
+    "gmdl_7ea0e53": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_boomerang"
+    },
+    "gmdl_e8b7352": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_dagger"
+    },
+    "gmdl_3d0ca46": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_halberd"
+    },
+    "gmdl_9ef0cc6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_glaive"
+    },
+    "gmdl_064a5d8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_hammer"
+    },
+    "gmdl_afec833": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_javelin"
+    },
+    "gmdl_a40f235": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_lance"
+    },
+    "gmdl_83cd766": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_mace"
+    },
+    "gmdl_19b33d1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_pike"
+    },
+    "gmdl_9f3d3e4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_throwing_knife"
+    },
+    "gmdl_b65c805": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_tomahawk"
+    },
+    "gmdl_5798efe": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_quarterstaff"
+    },
+    "gmdl_6d6e054": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_iced_warhammer"
+    },
+    "gmdl_0c7a67a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_katana"
+    },
+    "gmdl_a6b68f1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_rapier"
+    },
+    "gmdl_b5b37e1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_greatsword"
+    },
+    "gmdl_6e16059": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_longsword"
+    },
+    "gmdl_0b108f4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_boomerang"
+    },
+    "gmdl_cd25b4d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_spear"
+    },
+    "gmdl_4956305": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_saber"
+    },
+    "gmdl_6821860": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_dagger"
+    },
+    "gmdl_d862463": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_glaive"
+    },
+    "gmdl_958b9ae": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_halberd"
+    },
+    "gmdl_6aab198": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_hammer"
+    },
+    "gmdl_6bbd45b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_javelin"
+    },
+    "gmdl_55455bc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_lance"
+    },
+    "gmdl_3e24e8e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_mace"
+    },
+    "gmdl_d3b9875": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_pike"
+    },
+    "gmdl_bd14eec": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_quarterstaff"
+    },
+    "gmdl_f9fadcd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_tomahawk"
+    },
+    "gmdl_c0c81f6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_throwing_knife"
+    },
+    "gmdl_9ca2bb8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonbone_lightning_warhammer"
+    },
+    "gmdl_019601f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_rapier"
+    },
+    "gmdl_b788bfa": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_katana"
+    },
+    "gmdl_3bdb8cd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_greatsword"
+    },
+    "gmdl_c42dc84": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_longsword"
+    },
+    "gmdl_7374437": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_spear"
+    },
+    "gmdl_ca55ed5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_boomerang"
+    },
+    "gmdl_449632c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_saber"
+    },
+    "gmdl_737b3fb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_dagger"
+    },
+    "gmdl_8e3c52e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_glaive"
+    },
+    "gmdl_e06cf7e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_halberd"
+    },
+    "gmdl_9622039": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_hammer"
+    },
+    "gmdl_c8c8e30": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_lance"
+    },
+    "gmdl_6502a07": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_javelin"
+    },
+    "gmdl_df4dff2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_mace"
+    },
+    "gmdl_0e1d434": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_pike"
+    },
+    "gmdl_982a2b5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_tomahawk"
+    },
+    "gmdl_39b1a41": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_quarterstaff"
+    },
+    "gmdl_bc6d280": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_throwing_knife"
+    },
+    "gmdl_9761503": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_warhammer"
+    },
+    "gmdl_b834d6e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_knife"
+    },
+    "gmdl_2184b32": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diamond_mattock"
+    },
+    "gmdl_4e1f0d6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/canteen_empty"
+    },
+    "gmdl_4ca1282": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/matchbox"
+    },
+    "gmdl_7da9087": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_saw"
+    },
+    "gmdl_6c802b9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_battleaxe"
+    },
+    "gmdl_7e35d93": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_mattock"
+    },
+    "gmdl_90bb8f3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/golden_crown"
+    },
+    "gmdl_abf4f96": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_mattock"
+    },
+    "gmdl_15d08ec": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_mattock"
+    },
+    "gmdl_23d3e1e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_rapier"
+    },
+    "gmdl_fef5f28": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_katana"
+    },
+    "gmdl_fe3ac32": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_greatsword"
+    },
+    "gmdl_cc8bdc2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_longsword"
+    },
+    "gmdl_de87f49": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_spear"
+    },
+    "gmdl_0f30ed3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_boomerang"
+    },
+    "gmdl_2dadfe8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_saber"
+    },
+    "gmdl_a317cfe": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_dagger"
+    },
+    "gmdl_d7f2001": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_glaive"
+    },
+    "gmdl_245002a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_halberd"
+    },
+    "gmdl_2436211": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_hammer"
+    },
+    "gmdl_06b6610": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_javelin"
+    },
+    "gmdl_e3359ec": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_lance"
+    },
+    "gmdl_e5b9481": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_mace"
+    },
+    "gmdl_edf9594": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_quarterstaff"
+    },
+    "gmdl_ed85098": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_pike"
+    },
+    "gmdl_b41b2b7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_tomahawk"
+    },
+    "gmdl_c6ddae7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_throwing_knife"
+    },
+    "gmdl_1ea29dd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_knife"
+    },
+    "gmdl_3eec022": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/golden_warhammer"
+    },
+    "gmdl_d8a6a7c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/golden_mattock"
+    },
+    "gmdl_6301488": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_saw"
+    },
+    "gmdl_db4abb6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_battleaxe"
+    },
+    "gmdl_e0b7887": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_mattock"
+    },
+    "gmdl_93a2ee9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_boots"
+    },
+    "gmdl_a5ac1d1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_mattock"
+    },
+    "gmdl_15bbd2f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_helmet"
+    },
+    "gmdl_734c743": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_chestplate"
+    },
+    "gmdl_78b7e00": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_leggings"
+    },
+    "gmdl_7695b4a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_mattock"
+    },
+    "gmdl_204e24a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_mattock"
+    },
+    "gmdl_e2c240c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_rapier"
+    },
+    "gmdl_b884e58": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_katana"
+    },
+    "gmdl_dda4e7e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_greatsword"
+    },
+    "gmdl_50f8f73": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_longsword"
+    },
+    "gmdl_b1d6cea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_spear"
+    },
+    "gmdl_ed45407": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_saber"
+    },
+    "gmdl_ec6e94e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_boomerang"
+    },
+    "gmdl_8cfa928": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_dagger"
+    },
+    "gmdl_e847b64": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_glaive"
+    },
+    "gmdl_0917d44": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_halberd"
+    },
+    "gmdl_c24e599": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_hammer"
+    },
+    "gmdl_4e5c9c7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_javelin"
+    },
+    "gmdl_43044a7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_lance"
+    },
+    "gmdl_2ccf61b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_mace"
+    },
+    "gmdl_61b36bb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_pike"
+    },
+    "gmdl_0793cb4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_tomahawk"
+    },
+    "gmdl_8461807": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_quarterstaff"
+    },
+    "gmdl_ee85382": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_throwing_knife"
+    },
+    "gmdl_d72040c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_warhammer"
+    },
+    "gmdl_4f361b0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_club"
+    },
+    "gmdl_a499c6c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_knife"
+    },
+    "gmdl_c4ef0cd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/iron_mattock"
+    },
+    "gmdl_8ce8216": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_lava_bucket"
+    },
+    "gmdl_33eaa3e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/boots_wool"
+    },
+    "gmdl_a9e2ae3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/boots_jelled_slime"
+    },
+    "gmdl_efd5342": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/chestplate_wool"
+    },
+    "gmdl_4eeb0b2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/chestplate_jelled_slime"
+    },
+    "gmdl_6a17a1f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/sunglasses"
+    },
+    "gmdl_bfffbb8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/helmet_wool"
+    },
+    "gmdl_1ed5005": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/helmet_jelled_slime"
+    },
+    "gmdl_3fc25ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/leggings_wool"
+    },
+    "gmdl_1cd152b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/leggings_jelled_slime"
+    },
+    "gmdl_fa0c11b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_axe"
+    },
+    "gmdl_2c8d4ca": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_milk_bucket"
+    },
+    "gmdl_f695d30": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_axe"
+    },
+    "gmdl_3a177b3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_axe"
+    },
+    "gmdl_44fedae": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_battleaxe"
+    },
+    "gmdl_834c1ff": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_battleaxe"
+    },
+    "gmdl_141021b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_battleaxe"
+    },
+    "gmdl_5182591": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_battleaxe"
+    },
+    "gmdl_50be9ed": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_saw"
+    },
+    "gmdl_066f4f1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_mattock"
+    },
+    "gmdl_c2536c9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_boots"
+    },
+    "gmdl_0599e7e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_boots"
+    },
+    "gmdl_2900298": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_boots"
+    },
+    "gmdl_df11325": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_chestplate"
+    },
+    "gmdl_986d47a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_chestplate"
+    },
+    "gmdl_cd1223b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_chestplate"
+    },
+    "gmdl_d039268": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_helmet"
+    },
+    "gmdl_f2837d9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_helmet"
+    },
+    "gmdl_0968e4a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_helmet"
+    },
+    "gmdl_a4261c3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_hoe"
+    },
+    "gmdl_e451543": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_hoe"
+    },
+    "gmdl_bac2b41": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_leggings"
+    },
+    "gmdl_e9b461b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_hoe"
+    },
+    "gmdl_2655138": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_mattock"
+    },
+    "gmdl_e776023": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_leggings"
+    },
+    "gmdl_df14500": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_leggings"
+    },
+    "gmdl_43a6f38": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_pickaxe"
+    },
+    "gmdl_87fa809": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_pickaxe"
+    },
+    "gmdl_5f80db3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_pickaxe"
+    },
+    "gmdl_35f7898": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_mattock"
+    },
+    "gmdl_4856a81": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_shovel"
+    },
+    "gmdl_8681674": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_shovel"
+    },
+    "gmdl_3c10f51": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_shovel"
+    },
+    "gmdl_2821919": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_sword"
+    },
+    "gmdl_f45b82d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_mattock"
+    },
+    "gmdl_1097654": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_sword"
+    },
+    "gmdl_7f4d016": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_sword"
+    },
+    "gmdl_6a1720b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_katana"
+    },
+    "gmdl_7f7b636": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_rapier"
+    },
+    "gmdl_7dbec2e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_greatsword"
+    },
+    "gmdl_c06b77b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_longsword"
+    },
+    "gmdl_bc4e48e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_boomerang"
+    },
+    "gmdl_eaa6622": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_spear"
+    },
+    "gmdl_11c3fd7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_saber"
+    },
+    "gmdl_c1550de": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_dagger"
+    },
+    "gmdl_ce53727": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_glaive"
+    },
+    "gmdl_20ec3b0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_hammer"
+    },
+    "gmdl_501acff": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_halberd"
+    },
+    "gmdl_d198bf4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_javelin"
+    },
+    "gmdl_d3c2881": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_mace"
+    },
+    "gmdl_cdab93f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_lance"
+    },
+    "gmdl_7a920da": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_pike"
+    },
+    "gmdl_a2988f7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_quarterstaff"
+    },
+    "gmdl_269f50d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_throwing_knife"
+    },
+    "gmdl_fefe3dd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_tomahawk"
+    },
+    "gmdl_1b3ec37": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_fire_warhammer"
+    },
+    "gmdl_299df0e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_rapier"
+    },
+    "gmdl_88128a1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_greatsword"
+    },
+    "gmdl_3da7c81": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_katana"
+    },
+    "gmdl_001b85f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_longsword"
+    },
+    "gmdl_9a4b0ee": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_boomerang"
+    },
+    "gmdl_c748321": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_spear"
+    },
+    "gmdl_26f521b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_saber"
+    },
+    "gmdl_8fc0b2d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_dagger"
+    },
+    "gmdl_50a85ad": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_glaive"
+    },
+    "gmdl_83f8263": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_halberd"
+    },
+    "gmdl_69749fe": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_hammer"
+    },
+    "gmdl_0b1bb17": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_javelin"
+    },
+    "gmdl_e2f1d20": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_lance"
+    },
+    "gmdl_8d29263": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_pike"
+    },
+    "gmdl_6502475": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_mace"
+    },
+    "gmdl_997bce5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_quarterstaff"
+    },
+    "gmdl_f78b359": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_tomahawk"
+    },
+    "gmdl_c80189c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_throwing_knife"
+    },
+    "gmdl_1fef08a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_ice_warhammer"
+    },
+    "gmdl_a71dc92": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_rapier"
+    },
+    "gmdl_cdbf829": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_greatsword"
+    },
+    "gmdl_6f29f0b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_longsword"
+    },
+    "gmdl_3062df0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_boomerang"
+    },
+    "gmdl_56d81c7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_spear"
+    },
+    "gmdl_3bdc12c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_saber"
+    },
+    "gmdl_267d2e8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_dagger"
+    },
+    "gmdl_d4c1168": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_glaive"
+    },
+    "gmdl_e93c222": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_halberd"
+    },
+    "gmdl_9a5bf30": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_hammer"
+    },
+    "gmdl_354df38": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_javelin"
+    },
+    "gmdl_5111536": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_lance"
+    },
+    "gmdl_e153c34": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_mace"
+    },
+    "gmdl_db2d035": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_pike"
+    },
+    "gmdl_6a2c853": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_quarterstaff"
+    },
+    "gmdl_233588d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_throwing_knife"
+    },
+    "gmdl_7bb5ef1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_tomahawk"
+    },
+    "gmdl_22dd8eb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/dragonsteel_lightning_warhammer"
+    },
+    "gmdl_0a2599d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_rapier"
+    },
+    "gmdl_2362524": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_katana"
+    },
+    "gmdl_5ac04af": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_greatsword"
+    },
+    "gmdl_6a187bf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_longsword"
+    },
+    "gmdl_f50a40b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_spear"
+    },
+    "gmdl_8f88c78": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_boomerang"
+    },
+    "gmdl_70595e4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_saber"
+    },
+    "gmdl_19fe67f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_dagger"
+    },
+    "gmdl_ed04b4c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_glaive"
+    },
+    "gmdl_bf7c4a2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_halberd"
+    },
+    "gmdl_24de2ae": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_hammer"
+    },
+    "gmdl_a01a1ab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_javelin"
+    },
+    "gmdl_47efa1f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_lance"
+    },
+    "gmdl_e5e69f1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_mace"
+    },
+    "gmdl_87fe8ac": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_pike"
+    },
+    "gmdl_60bb332": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_quarterstaff"
+    },
+    "gmdl_fbc00ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_tomahawk"
+    },
+    "gmdl_0c93055": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_throwing_knife"
+    },
+    "gmdl_2e23cc6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_mattock"
+    },
+    "gmdl_d07a26a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/netherite_knife"
+    },
+    "gmdl_b4301ab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/netherite_warhammer"
+    },
+    "gmdl_0924864": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/recall_potion"
+    },
+    "gmdl_de7eaeb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/wormhole_potion"
+    },
+    "gmdl_4cc0c6f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_apple"
+    },
+    "gmdl_c251d08": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_beetroot"
+    },
+    "gmdl_59fc282": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_cactus"
+    },
+    "gmdl_6d5ad45": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_carrot"
+    },
+    "gmdl_6d4c704": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_melon_glistering"
+    },
+    "gmdl_ab9f5ab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_chorus_fruit"
+    },
+    "gmdl_c0375b3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_apple_golden"
+    },
+    "gmdl_bc0b810": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_carrot_golden"
+    },
+    "gmdl_e6a6be2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_pumpkin"
+    },
+    "gmdl_76096ba": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/juice_melon"
+    },
+    "gmdl_b32b7d2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/purified_water_bottle"
+    },
+    "gmdl_bef53d8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/canteen_filled"
+    },
+    "gmdl_d67b024": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_powder_snow_bucket"
+    },
+    "gmdl_9a020a7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/dragons_eye"
+    },
+    "gmdl_112f115": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/poison_stone"
+    },
+    "gmdl_11999bd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_resistance"
+    },
+    "gmdl_4aa8b73": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_regeneration"
+    },
+    "gmdl_1ce6c4d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_haste"
+    },
+    "gmdl_125e8f4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_strength"
+    },
+    "gmdl_2353908": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_speed"
+    },
+    "gmdl_ab89984": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring_jump_boost"
+    },
+    "gmdl_17ef3ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_skull_fire"
+    },
+    "gmdl_6e8635e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_skull_ice"
+    },
+    "gmdl_eac0b08": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_skull_lightning"
+    },
+    "gmdl_04d63ca": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ender_queens_crown"
+    },
+    "gmdl_5c293d8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/balloon"
+    },
+    "gmdl_6e5d668": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/obsidian_skull"
+    },
+    "gmdl_45da87b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/forbidden_fruit"
+    },
+    "gmdl_873f370": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/vitamins"
+    },
+    "gmdl_b020928": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_overclocking"
+    },
+    "gmdl_34c96d5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/shulker_heart"
+    },
+    "gmdl_59ebf32": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_free_action"
+    },
+    "gmdl_8723461": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/bezoar"
+    },
+    "gmdl_64d5dd0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ender_dragonscale"
+    },
+    "gmdl_312f00c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/cracked_black_dragonscale"
+    },
+    "gmdl_27ad986": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/black_dragonscale"
+    },
+    "gmdl_c581524": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/mixed_color_dragonscale"
+    },
+    "gmdl_8ccc7a9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ankh_charm"
+    },
+    "gmdl_0292066": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/magic_mirror"
+    },
+    "gmdl_d812b55": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/lucky_horseshoe"
+    },
+    "gmdl_0150f83": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/wormhole_mirror"
+    },
+    "gmdl_900463b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/scarlite_ring"
+    },
+    "gmdl_ad24e23": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/spectral_silt"
+    },
+    "gmdl_50ae197": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/disintegration_tablet"
+    },
+    "gmdl_9368c92": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/cross_necklace"
+    },
+    "gmdl_4d39faf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/wrath_pendant"
+    },
+    "gmdl_68c5c01": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/pride_pendant"
+    },
+    "gmdl_01cf42a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/gluttony_pendant"
+    },
+    "gmdl_e07fad2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/sin_pendant"
+    },
+    "gmdl_1ba36b1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/flare"
+    },
+    "gmdl_8297ecb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/phytoprostasia_amulet"
+    },
+    "gmdl_52d22d4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/potion_ring"
+    },
+    "gmdl_436d7b1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/emerald_ring"
+    },
+    "gmdl_6697d1a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/emerald_amulet"
+    },
+    "gmdl_7fe7afb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/glowing_ingot"
+    },
+    "gmdl_44809cf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/glowing_powder"
+    },
+    "gmdl_e2624a3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/glowing_gem"
+    },
+    "gmdl_bc6b6fd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/dwarf_stout"
+    },
+    "gmdl_a4c9e66": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/stone_negative_gravity"
+    },
+    "gmdl_bf920b1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/fairy_dew"
+    },
+    "gmdl_0eb29ca": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/stone_inertia_null"
+    },
+    "gmdl_c154a76": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/stone_greater_inertia"
+    },
+    "gmdl_0ce8a39": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_enchanted_eyes"
+    },
+    "gmdl_a64d760": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/stone_sea"
+    },
+    "gmdl_dd280fa": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/polarized_stone"
+    },
+    "gmdl_a5ee9ce": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_fairies"
+    },
+    "gmdl_03f7d5d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_dwarves"
+    },
+    "gmdl_69613bc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/wither_ring"
+    },
+    "gmdl_1f81bec": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/shield_honor"
+    },
+    "gmdl_1c4eb11": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/miners_ring"
+    },
+    "gmdl_021de5c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/warped_scroll"
+    },
+    "gmdl_9e62960": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/bound_scroll"
+    },
+    "gmdl_a907aee": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/ice_cube"
+    },
+    "gmdl_5c23a54": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/return_scroll"
+    },
+    "gmdl_f1fb0b6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/magma_shard"
+    },
+    "gmdl_b0b8170": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/jelled_slime"
+    },
+    "gmdl_9a57dda": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/body_slot"
+    },
+    "gmdl_c0487c8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/charm_slot"
+    },
+    "gmdl_f479292": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/belt_slot"
+    },
+    "gmdl_38be9f5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/ring_slot"
+    },
+    "gmdl_b2ee73e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/head_slot"
+    },
+    "gmdl_e8bf37f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/amulet_slot"
+    },
+    "gmdl_8347038": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/phantom_prism"
+    },
+    "gmdl_0308990": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/handle"
+    },
+    "gmdl_d771258": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/witherbone_handle"
+    },
+    "gmdl_b8a4660": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/pole"
+    },
+    "gmdl_0447d43": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanandfire/witherbone_pole"
+    },
+    "gmdl_5e1702e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/andesite_rock"
+    },
+    "gmdl_09b656a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/stone_rock"
+    },
+    "gmdl_de3ae07": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/diorite_rock"
+    },
+    "gmdl_ed96221": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/granite_rock"
+    },
+    "gmdl_c98ae49": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/sandstone_rock"
+    },
+    "gmdl_d0101c3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/red_sandstone_rock"
+    },
+    "gmdl_85f1506": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/clay_brick"
+    },
+    "gmdl_5bf69d4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/clay_bucket"
+    },
+    "gmdl_f811a41": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/clay_flower_pot"
+    },
+    "gmdl_4bec7d9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/bauble_bag"
+    },
+    "gmdl_0fa1dce": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/broken_heart"
+    },
+    "gmdl_6368b15": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_base"
+    },
+    "gmdl_f765284": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_1"
+    },
+    "gmdl_42bd801": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_2"
+    },
+    "gmdl_f324c93": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_3"
+    },
+    "gmdl_aa00501": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_4"
+    },
+    "gmdl_cceaa61": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_huge_5"
+    },
+    "gmdl_5d9efa6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_base"
+    },
+    "gmdl_eef51d1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_1"
+    },
+    "gmdl_d53e356": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_2"
+    },
+    "gmdl_db00d5f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_3"
+    },
+    "gmdl_0be7a49": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_4"
+    },
+    "gmdl_dd45726": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_large_5"
+    },
+    "gmdl_c641008": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_medium_base"
+    },
+    "gmdl_6690e67": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_medium_1"
+    },
+    "gmdl_55d22a9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_small_base"
+    },
+    "gmdl_3de88ec": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_medium_2"
+    },
+    "gmdl_33f4c02": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_medium_3"
+    },
+    "gmdl_4ab6bc7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_small_1"
+    },
+    "gmdl_7dcb7c9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_small_2"
+    },
+    "gmdl_73e28ad": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_arrow_small_3"
+    },
+    "gmdl_c521544": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_base"
+    },
+    "gmdl_3e018d1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_4"
+    },
+    "gmdl_18cdc08": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_1"
+    },
+    "gmdl_5c5e4e2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_2"
+    },
+    "gmdl_3327ae8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_3"
+    },
+    "gmdl_0d96911": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_huge_5"
+    },
+    "gmdl_b3560a2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_base"
+    },
+    "gmdl_52888e2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_2"
+    },
+    "gmdl_44c95f7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_1"
+    },
+    "gmdl_89118b6": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_3"
+    },
+    "gmdl_7a72228": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_4"
+    },
+    "gmdl_de6f37b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_medium_base"
+    },
+    "gmdl_cc583c2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_large_5"
+    },
+    "gmdl_cf2220e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_small_base"
+    },
+    "gmdl_2783ddb": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_medium_1"
+    },
+    "gmdl_80c9e4b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_medium_3"
+    },
+    "gmdl_1f728ee": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_medium_2"
+    },
+    "gmdl_141569e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_small_1"
+    },
+    "gmdl_6bef500": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_small_2"
+    },
+    "gmdl_3915f16": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_bolt_small_3"
+    },
+    "gmdl_b935f72": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_upgrade_kit_huge"
+    },
+    "gmdl_9a9e4e0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/baubles/quiver_upgrade_kit_large"
+    },
+    "gmdl_b454357": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone"
+    },
+    "gmdl_45c31de": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/witherbone"
+    },
+    "gmdl_c83cb95": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_shard"
+    },
+    "gmdl_41b8e52": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/plant_fiber"
+    },
+    "gmdl_755c756": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_heart_fire"
+    },
+    "gmdl_83f99ef": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/toughasnails/charcoal_filter"
+    },
+    "gmdl_b21b345": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_heart_ice"
+    },
+    "gmdl_e81617a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_heart_lightning"
+    },
+    "gmdl_5f7d51a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_blood_fire"
+    },
+    "gmdl_8ab4e76": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_blood_ice"
+    },
+    "gmdl_ea9aa11": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragon_blood_lightning"
+    },
+    "gmdl_8ff8b48": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_fire_ingot"
+    },
+    "gmdl_260fac4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_ice_ingot"
+    },
+    "gmdl_8f91bd1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonsteel_lightning_ingot"
+    },
+    "gmdl_126e4a8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_blue"
+    },
+    "gmdl_eaa38f3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_bronze"
+    },
+    "gmdl_2a8d08c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_gray"
+    },
+    "gmdl_cb11071": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_green"
+    },
+    "gmdl_755ed39": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_red"
+    },
+    "gmdl_5b639ab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_sapphire"
+    },
+    "gmdl_45055c7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_silver"
+    },
+    "gmdl_0234e53": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_white"
+    },
+    "gmdl_2fe00be": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_amethyst"
+    },
+    "gmdl_130e266": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_black"
+    },
+    "gmdl_8fb2ad0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_copper"
+    },
+    "gmdl_42e9e47": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_blue"
+    },
+    "gmdl_2ae711c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonscale_electric"
+    },
+    "gmdl_c8d99a7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_bronze"
+    },
+    "gmdl_800cfb5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_deepblue"
+    },
+    "gmdl_8b73e91": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_green"
+    },
+    "gmdl_f24b10d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_purple"
+    },
+    "gmdl_9c391d9": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_red"
+    },
+    "gmdl_f870a94": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_scale_teal"
+    },
+    "gmdl_c5f388b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/shiny_scale"
+    },
+    "gmdl_63cddab": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_pufferfish_bucket"
+    },
+    "gmdl_9d1cef0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_salmon_bucket"
+    },
+    "gmdl_591fe20": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_wooden_blocking"
+    },
+    "gmdl_9dc8733": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_stone"
+    },
+    "gmdl_70f7d35": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_copper_blocking"
+    },
+    "gmdl_c9632fa": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_golden_blocking"
+    },
+    "gmdl_863ad07": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_iron_blocking"
+    },
+    "gmdl_26f8e89": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_diamond_blocking"
+    },
+    "gmdl_0cf9060": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_obsidian_blocking"
+    },
+    "gmdl_fc7324f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/shield_basic_netherite_blocking"
+    },
+    "gmdl_b0cdf0e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/spectral_bolt"
+    },
+    "gmdl_7e5d503": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_battleaxe"
+    },
+    "gmdl_b38b963": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_axe"
+    },
+    "gmdl_605b002": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_mattock"
+    },
+    "gmdl_9811a2d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_battleaxe"
+    },
+    "gmdl_9a3b59d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_hoe"
+    },
+    "gmdl_22d9547": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_mattock"
+    },
+    "gmdl_7f2a9ad": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_mattock"
+    },
+    "gmdl_c4a0c10": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_pickaxe"
+    },
+    "gmdl_960c274": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_mattock"
+    },
+    "gmdl_52cae9d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_shovel"
+    },
+    "gmdl_13ea651": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_katana"
+    },
+    "gmdl_2c7c895": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_rapier"
+    },
+    "gmdl_b006d5e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_greatsword"
+    },
+    "gmdl_f3de65e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_longsword"
+    },
+    "gmdl_522b49d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_spear"
+    },
+    "gmdl_a1eca46": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_saber"
+    },
+    "gmdl_5d507c1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_boomerang"
+    },
+    "gmdl_a4c2a11": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_dagger"
+    },
+    "gmdl_093b1ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_glaive"
+    },
+    "gmdl_7d6a3a1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_halberd"
+    },
+    "gmdl_c302e5d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_hammer"
+    },
+    "gmdl_aa6c167": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_javelin"
+    },
+    "gmdl_7560035": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_mace"
+    },
+    "gmdl_b069c34": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_lance"
+    },
+    "gmdl_9d70323": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_quarterstaff"
+    },
+    "gmdl_b1b0819": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_pike"
+    },
+    "gmdl_1287525": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_tomahawk"
+    },
+    "gmdl_c372466": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_throwing_knife"
+    },
+    "gmdl_bfa240d": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/stone_warhammer"
+    },
+    "gmdl_638c3f7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_rapier"
+    },
+    "gmdl_f354179": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_greatsword"
+    },
+    "gmdl_5c43abd": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_katana"
+    },
+    "gmdl_db581ea": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_longsword"
+    },
+    "gmdl_4861b25": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_boomerang"
+    },
+    "gmdl_917ae69": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_spear"
+    },
+    "gmdl_160f75c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_saber"
+    },
+    "gmdl_289d5bc": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_dagger"
+    },
+    "gmdl_21899b5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_halberd"
+    },
+    "gmdl_ed68743": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_glaive"
+    },
+    "gmdl_d71bb71": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_hammer"
+    },
+    "gmdl_99a59f5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_lance"
+    },
+    "gmdl_c3da5c0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_pike"
+    },
+    "gmdl_1eef25f": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_javelin"
+    },
+    "gmdl_26bcbdf": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_mace"
+    },
+    "gmdl_b84fb10": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_tomahawk"
+    },
+    "gmdl_c8d7fa1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_quarterstaff"
+    },
+    "gmdl_b629990": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_throwing_knife"
+    },
+    "gmdl_8eb3bad": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_warhammer"
+    },
+    "gmdl_dc849e2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/macuahuitl"
+    },
+    "gmdl_4129ed5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_sword"
+    },
+    "gmdl_eec622b": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/copper_mattock"
+    },
+    "gmdl_10df631": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/plant_string"
+    },
+    "gmdl_a5593ba": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/dragonbone_arrow_tipped"
+    },
+    "gmdl_fc2f4d5": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/iceandfire/sea_serpent_arrow_tipped"
+    },
+    "gmdl_d9be410": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_tadpole_bucket"
+    },
+    "gmdl_0d775f4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/copper_arrow"
+    },
+    "gmdl_3b34ff4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_arrow_tipped"
+    },
+    "gmdl_a083e36": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/iron_arrow_tipped"
+    },
+    "gmdl_0c19db8": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_arrow_tipped"
+    },
+    "gmdl_e1cec5a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/explosive_arrow_tipped"
+    },
+    "gmdl_b2845d0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/diamond_bolt_tipped"
+    },
+    "gmdl_1676260": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/bolt_tipped"
+    },
+    "gmdl_73ec1f7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_tropical_fish_bucket"
+    },
+    "gmdl_d285281": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/ceramic_water_bucket"
+    },
+    "gmdl_0aae18c": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_battleaxe"
+    },
+    "gmdl_9790080": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_axe"
+    },
+    "gmdl_a26e748": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/clay_tool"
+    },
+    "gmdl_4258591": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/fire_starter"
+    },
+    "gmdl_1c88f20": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_hoe"
+    },
+    "gmdl_0e6b621": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_pickaxe"
+    },
+    "gmdl_0dd62e1": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_shovel"
+    },
+    "gmdl_11c972e": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/notreepunching/flint_knife"
+    },
+    "gmdl_9eba536": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_rapier"
+    },
+    "gmdl_7aef6f3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_katana"
+    },
+    "gmdl_ca8e782": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_longsword"
+    },
+    "gmdl_55dbcda": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_spear"
+    },
+    "gmdl_be1cca7": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_greatsword"
+    },
+    "gmdl_9eb4e88": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_saber"
+    },
+    "gmdl_75d9444": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_boomerang"
+    },
+    "gmdl_50c9fd4": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_dagger"
+    },
+    "gmdl_2ceeb82": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_glaive"
+    },
+    "gmdl_d5c22b0": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_halberd"
+    },
+    "gmdl_33be52a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_hammer"
+    },
+    "gmdl_23b19f2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_javelin"
+    },
+    "gmdl_f600c00": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_lance"
+    },
+    "gmdl_3d01358": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_mace"
+    },
+    "gmdl_b54194a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_tomahawk"
+    },
+    "gmdl_c0216f3": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_pike"
+    },
+    "gmdl_beee798": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_quarterstaff"
+    },
+    "gmdl_f6c1508": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_throwing_knife"
+    },
+    "gmdl_496a7b2": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_warhammer"
+    },
+    "gmdl_b3e0f4a": {
+      "textures": "textures/geyser/geyser_custom/realisticsurvival/item/spartanweaponry/wooden_club"
+    }
+  }
+}
