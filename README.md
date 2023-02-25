@@ -8,5 +8,4 @@
   6. download and add [GeyserOptionalPack](https://github.com/GeyserMC/GeyserOptionalPack) like pack rsv
 ## ●Things being done:
   - Bow and crossbow animated when shooting
-  - Armor texture when equipment
   - Dragon steel block
