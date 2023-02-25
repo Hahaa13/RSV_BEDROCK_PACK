@@ -1,0 +1,24 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "geyser_custom:gmdl_cd1223b.player",
+            "item": { "geyser_custom:gmdl_cd1223b": "query.owner_identifier == 'minecraft:player'" },
+            "materials": {
+                "default": "armor_leather",
+                "enchanted": "armor_leather_enchanted"
+            },
+            "textures": {
+                "default": "textures/armor_texture/dragonsteel_lighting_layer_1.png",
+                "enchanted": "textures/misc/enchanted_item_glint"
+            },
+            "geometry": {
+                "default": "geometry.player.armor.chestplate"
+            },
+            "scripts": {
+                "parent_setup": "variable.helmet_layer_visible = 0.0;"
+            },
+            "render_controllers": ["controller.render.armor"]
+        }
+    }
+}
