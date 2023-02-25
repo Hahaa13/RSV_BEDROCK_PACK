@@ -9,5 +9,4 @@
 ## ●Things being done:
   - Bow and crossbow animated when shooting
   - Armor texture when equipment
-  - Water and temperature bar (prioritize)
   - Dragon steel block
