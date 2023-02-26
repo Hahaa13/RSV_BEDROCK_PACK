@@ -1,5 +1,5 @@
 # RSV_BEDROCK_PACK
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/Hahaa13/RSV_BEDROCK_PACK/main/.github/assets/Screenshot_20230226-133743_Minecraft.jpg)
 ## ●How to use:
   1. dowbload pack and geyser_mappings.json
   2. unzip
